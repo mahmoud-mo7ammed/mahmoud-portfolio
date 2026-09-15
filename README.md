@@ -36,8 +36,8 @@ The portfolio includes selected projects, professional experience, technical ski
 - **Pro Studio** — https://prostudiio.com/
 - **Nex.Luce** — https://nexluce.art/
 - **B4 Store** — https://b4store.net/
-- **B4 Admin Menu** — FiveM / QBCore
-- **B4 Judge Job** — FiveM / QBCore
+- **B4 Admin Menu** — [FiveM / QBCore](https://github.com/B4Store/B4-adminmenu)
+- **B4 Judge Job** — [FiveM / QBCore](https://github.com/B4Store/b4-judgejob)
 
 ## Connect
 
