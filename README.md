@@ -43,7 +43,7 @@ The portfolio includes selected projects, professional experience, technical ski
 
 - **Portfolio:** https://mahmoudxxtrem.vercel.app/
 - **GitHub:** https://github.com/mahmoud-mo7ammed
-- **LinkedIn:** https://linkedin.com/in/mahmoud-mohamed-49a177406
+- **LinkedIn:** https://www.linkedin.com/in/mahmoudmo7ammed/
 - **Discord:** https://discord.com/b4s
 
 ---
